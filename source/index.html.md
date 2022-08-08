@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: SPEICHER Documentation
 
 language_tabs: # must be one of https://git.io/vQNgJ
   - shell
@@ -25,11 +25,12 @@ meta:
 
 # Introduction
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Welcome to SPEICHER! You can use SPEICHER to solve a number of tasks, 
+from stock management to Attendance and more.
 
-We have language bindings in Shell, Ruby, Python, and JavaScript! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
+We build SPEICHER on a battle tested foundation of Ruby, Rails, Tailwind, PostgreSQL, and a number of open source libraries. Most resources are accessible via REST API endpoints. We have language bindings in Shell, Ruby, Python, and JavaScript! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
 
-This example API documentation page was created with [Slate](https://github.com/slatedocs/slate). Feel free to edit it and use it as a base for your own API's documentation.
+Allow us to briefly thank [Slate](https://github.com/slatedocs/slate). Slate is an open source tool for building documentation like this. 
 
 # Authentication
 
